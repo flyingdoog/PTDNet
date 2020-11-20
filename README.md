@@ -4,9 +4,16 @@ This is a Tensorflow implementation of paper: <b>Learning to Drop: Robust Graph 
 
 <i>WSDM'21</i>
 
-I've updated the code from Tensorflow 1.0 to Tensorflow 2.0.
+Since the previous version is not easy to use, I've updated the code from Tensorflow 1.0 to Tensorflow 2.0.
 Currently, I only provide sample implementation for reference. 
 Hyper-parameters for different datasets need tune.I will keep updating this repo.
+
+## Requirements
+  * Python 3.8.6
+  * tensorflow 2.3.1
+  * networkx
+
+
 
 ## References
 ```
