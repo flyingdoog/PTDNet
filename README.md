@@ -6,7 +6,7 @@ This is a Tensorflow implementation of paper: <b>Learning to Drop: Robust Graph 
 
 Since the previous version is not easy to use, I've updated the code from Tensorflow 1.0 to Tensorflow 2.0.
 Currently, I only provide sample implementation for reference. 
-Hyper-parameters for different datasets need tune.I will keep updating this repo.
+Hyper-parameters for different datasets need tune.
 
 ## Requirements
   * Python 3.8.6
