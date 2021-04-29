@@ -2,10 +2,14 @@
 
 This is a Tensorflow implementation of paper: <b>Learning to Drop: Robust Graph Neural Network via Topological Denoising</b>
 
-
-Robust Graph Representation Learning via Neural Sparsification
-
+https://arxiv.org/abs/2011.07057
 <i>WSDM'21</i>
+
+
+Unofficial Implementation <b> Robust Graph Representation Learning via Neural Sparsification</b>
+
+<i> ICML 20</i>
+
 
 Since the previous version is not easy to use, I've updated the code from Tensorflow 1.0 to Tensorflow 2.0.
 Currently, I only provide sample implementation for reference. 
