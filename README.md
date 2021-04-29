@@ -3,6 +3,7 @@
 This is a Tensorflow implementation of paper: <b>Learning to Drop: Robust Graph Neural Network via Topological Denoising</b>
 
 https://arxiv.org/abs/2011.07057
+
 <i>WSDM'21</i>
 
 
